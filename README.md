@@ -44,12 +44,27 @@ Para ello, ejecute el siguiente comando para abrir el archivo dir.conf en un edi
 
 Recargamos la configuracion de apache2 
 
-![image](https://github.com/user-attachments/assets/3b73f025-7d12-4a67-8184-184ed808ea62)
+![image](https://github.com/user-attachments/assets/ce995553-93aa-45c8-8aee-72e97e4eeef5)
 
 Y verifficamos el estado actual de apache 
 
 ![image](https://github.com/user-attachments/assets/c5b87066-a387-4daa-b546-fede63a03e22)
 
 # Instalación de phpMyAdmin y paquetes recomendados
+
+Instala extensiones adicionales de PHP necesarias para el funcionamiento de phpMyAdmin
+
+![image](https://github.com/user-attachments/assets/90a750b6-c040-4536-9300-ba50748b643f)
+
+Descargamos el codigo fuente de phpMyadmin
+
+![image](https://github.com/user-attachments/assets/303418dd-c9e5-43e9-b5b3-f503fea786a2)
+
+
+Extraemos el archivo descargado con el comando tar xvf phpMyAdmin-4.9.7-all-languages.tar.gz y nos queda lo siguiente
+
+![image](https://github.com/user-attachments/assets/edbd5cef-e95b-4413-8095-b890724f6a14)
+
+
 
 
