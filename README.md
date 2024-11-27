@@ -65,6 +65,10 @@ Extraemos el archivo descargado con el comando tar xvf phpMyAdmin-4.9.7-all-lang
 
 ![image](https://github.com/user-attachments/assets/edbd5cef-e95b-4413-8095-b890724f6a14)
 
+Movemos el directorio phpMyAdmin-4.9.7-all-languages y todos sus subdirectorios al directorio /usr/share/, la ubicación donde phpMyAdmin espera encontrar sus ficheros de configuración por defecto. También renombrará el directorio en su lugar a sólo phpmyadmin.
+
+![image](https://github.com/user-attachments/assets/b80f3ec0-4673-464e-8969-5e4287b25eb7)
+
 
 
 
