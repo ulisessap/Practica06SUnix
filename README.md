@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/643a1751-0161-41c7-bae3-835e0ef0bbe0)# Practica06SUnix
+# Practica06SUnix
 
 # Instalar phpMyadmin desde codigo fuente
 
