@@ -90,5 +90,12 @@ y ponemos la cadena de 32 caracteres
 
 ![image](https://github.com/user-attachments/assets/397b96dd-c199-4310-ad43-bc5a864f0273)
 
+Descomentamos estas lineas y las cambiamos
+
+![image](https://github.com/user-attachments/assets/2a9ba902-fdfb-4235-9e9d-9f6e6cc9d6aa)
+
+
+
+
 
 
