@@ -94,6 +94,23 @@ Descomentamos estas lineas y las cambiamos
 
 ![image](https://github.com/user-attachments/assets/2a9ba902-fdfb-4235-9e9d-9f6e6cc9d6aa)
 
+![image](https://github.com/user-attachments/assets/813844f5-6761-41dc-8f3f-bbb483a18879)
+
+
+Tambien descomentamos estas lineas 
+
+![image](https://github.com/user-attachments/assets/00a44d60-f92f-4511-b70b-3b403aec0f28)
+
+![image](https://github.com/user-attachments/assets/3dbbf842-92cb-4724-af45-bed0c7240f1a)
+
+Para despues crear las tablas
+
+Vamos hasta la parte inferior del archivo y añada la siguiente línea. Esto configurará phpMyAdmin para usar el directorio /var/lib/phpmyadmin/tmp que creó antes como directorio temporal. phpMyAdmin usará este directorio temporal como caché de plantillas, lo que permite una carga más rápida de las páginas:
+
+![image](https://github.com/user-attachments/assets/591a298f-87ed-473a-b286-897c32530868)
+
+
+
 
 
 
