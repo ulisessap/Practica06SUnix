@@ -27,4 +27,19 @@ Iniciamos el cliente de línea de comandos de MariaDB para ejecutar comandos SQL
 
 Tenemos Apache instalado para servir tu contenido y MariaDB instalado para almacenar y gestionar tus datos. PHP es el componente de su configuración que procesará código para mostrar contenido dinámico al usuario final. Puede ejecutar scripts, conectarse a tus bases de datos MariaDB para obtener información, y entregar el contenido procesado a tu servidor web para que lo muestre.
 
+Instalamos ahora  PHP y las bibliotecas necesarias para que PHP funcione con Apache y MariaDB. PHP es un lenguaje de programación del lado del servidor que permite la creación de contenido dinámico.
+
+![image](https://github.com/user-attachments/assets/4737655d-bb72-4f3f-81dc-1bfced17b2d2)
+
+si un usuario solicita un directorio al servidor, Apache buscará primero un fichero llamado index.html. Para indicar al servidor web que prefiera archivos PHP sobre otros, puede configurar Apache para que busque primero un archivo index.php.
+
+Para ello, ejecute el siguiente comando para abrir el archivo dir.conf en un editor de texto con privilegios de root. 
+
+![image](https://github.com/user-attachments/assets/e92d3a5c-9089-4d89-b15c-b1bd1d2dbe9f)
+
+
+![image](https://github.com/user-attachments/assets/15976e58-99ce-48e4-a070-057c51a4cf46)
+
+![image](https://github.com/user-attachments/assets/e8736462-bd81-41c2-9c61-2ab5c5979899)
+
 
