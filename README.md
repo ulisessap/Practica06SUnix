@@ -42,4 +42,14 @@ Para ello, ejecute el siguiente comando para abrir el archivo dir.conf en un edi
 
 ![image](https://github.com/user-attachments/assets/e8736462-bd81-41c2-9c61-2ab5c5979899)
 
+Recargamos la configuracion de apache2 
+
+![image](https://github.com/user-attachments/assets/3b73f025-7d12-4a67-8184-184ed808ea62)
+
+Y verifficamos el estado actual de apache 
+
+![image](https://github.com/user-attachments/assets/c5b87066-a387-4daa-b546-fede63a03e22)
+
+# Instalación de phpMyAdmin y paquetes recomendados
+
 
