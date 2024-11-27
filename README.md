@@ -188,6 +188,21 @@ Alias /phpmyadmin /usr/share/phpmyadmin
 </Directory>
 ```
 
+![image](https://github.com/user-attachments/assets/63f51b78-08f6-4095-ab08-758bd10b6be6)
+
+Luego habilitamos la configuración de phpMyAdmin en Apache y recargamos la configuracion 
+
+![image](https://github.com/user-attachments/assets/7bdf2d2c-a2f6-4d91-abb9-8a827ae36c77)
+
+Accedemos a la pantalla de inicio de sesion de phpmyadmin
+
+![image](https://github.com/user-attachments/assets/7bf236d4-cc4d-4197-9fbb-f97b0707f640)
+
+E iniciamos sesion
+
+![image](https://github.com/user-attachments/assets/1a14703b-eb84-40c0-a8e7-b4e94dbfe48e)
+
+
 
 
 
