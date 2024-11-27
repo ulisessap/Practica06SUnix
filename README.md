@@ -18,7 +18,8 @@ Ahotra configuramos la seguridad del servidor MariaDB. Este script interactivo a
 
 ![image](https://github.com/user-attachments/assets/29cdd255-d5ac-4e46-9fea-976947bcab02)
 
-![image](https://github.com/user-attachments/assets/2d55de21-da64-4563-ba6e-8738eda69a1d)
+![image](https://github.com/user-attachments/assets/65110f2c-d845-4e11-b145-2855dd288e42)
+
 
 Iniciamos el cliente de línea de comandos de MariaDB para ejecutar comandos SQL en la base de datos.
 
