@@ -77,6 +77,18 @@ Copiamos el archivo de configuración de ejemplo de phpMyAdmin a un archivo de c
 
 ![image](https://github.com/user-attachments/assets/40f69e04-e5db-4371-85ae-24b11959db8a)
 
+Instalamos la herramienta pwgen, que se utiliza para generar contraseñas aleatorias.
+Y generamos una cadena segura de 32 caracteres para ser utilizada como valor para blowfish_secret.
+
+![image](https://github.com/user-attachments/assets/19052d8a-3d1e-4815-aa35-62162b77fa58)
+
+Ahora abrimos el siguiente archivo 
+
+![image](https://github.com/user-attachments/assets/4e0b0ab5-faa3-43f1-899d-0a3549678b7c)
+
+y ponemos la cadena de 32 caracteres 
+
+![image](https://github.com/user-attachments/assets/397b96dd-c199-4310-ad43-bc5a864f0273)
 
 
 
