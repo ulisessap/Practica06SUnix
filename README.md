@@ -69,6 +69,14 @@ Movemos el directorio phpMyAdmin-4.9.7-all-languages y todos sus subdirectorios 
 
 ![image](https://github.com/user-attachments/assets/b80f3ec0-4673-464e-8969-5e4287b25eb7)
 
+Ahora configuramos lo siguiente:
+
+Creamos un directorio temporal para phpMyAdmin. Este directorio es necesario para almacenar archivos temporales que phpMyAdmin pueda necesitar.
+Cambiamos el propietario del directorio temporal a www-data, el usuario con el que corre Apache. Esto garantiza que phpMyAdmin pueda acceder y manipular los archivos en el directorio.
+Copiamos el archivo de configuración de ejemplo de phpMyAdmin a un archivo de configuración real, que luego se puede editar para personalizar la configuración.
+
+![image](https://github.com/user-attachments/assets/40f69e04-e5db-4371-85ae-24b11959db8a)
+
 
 
 
